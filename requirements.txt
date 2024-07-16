@@ -1,5 +1,0 @@
-## Installation
-
-First, ensure you have Python installed on your system. Then, install the required dependencies using pip:
-
-pip install pillow
